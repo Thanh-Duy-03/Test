@@ -140,6 +140,8 @@ public:
 };
 int main()
 {
+
+	// thu game xem dc k
 	srand(time(NULL));
 	cGame game(30, 5);
 	game.Run();
