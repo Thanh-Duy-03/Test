@@ -149,6 +149,7 @@ int main()
 	//getchar();
 	//pause game
 	//MK dep tralsdlad
+	//kohasf
 	system("pause");
 	return 0;
 }
