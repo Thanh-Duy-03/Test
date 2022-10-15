@@ -148,8 +148,6 @@ int main()
 	cout << "Game over!" << endl;
 	//getchar();
 	//pause game
-	//MK dep tralsdlad
-	//kohasf
 	system("pause");
 	return 0;
 }
