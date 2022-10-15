@@ -147,6 +147,7 @@ int main()
 	game.Run();
 	cout << "Game over!" << endl;
 	//getchar();
+	//pause game
 	system("pause");
 	return 0;
 }
