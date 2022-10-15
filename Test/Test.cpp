@@ -148,6 +148,7 @@ int main()
 	cout << "Game over!" << endl;
 	//getchar();
 	//pause game
+	//MK dep trai
 	system("pause");
 	return 0;
 }
