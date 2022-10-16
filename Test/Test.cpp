@@ -140,7 +140,7 @@ public:
 };
 int main()
 {
-
+	cout << "Hello\n";
 	// thu game xem dc k
 	srand(time(NULL));
 	cGame game(30, 5);
